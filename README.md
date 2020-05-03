@@ -1,5 +1,5 @@
 Covid app made with react. 
-
+update later with apis
 Dependencies:
 axios - to make http request
 react-charjs-2 - for chart making
