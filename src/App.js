@@ -1,7 +1,5 @@
 import React from 'react';
-// import Cards from './components/Cards/Cards';
-// import Chart from './components/Chart/Chart';
-// import CountryPicker from './components/CountryPicker/CountryPicker';
+
 
 //check 1: possible thru index.js in folder. easier to bring out multiple components
 import { Cards, Chart, CountryPicker } from './components';
